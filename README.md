@@ -1,5 +1,7 @@
 repo3
 hi!
-I love git)
+<<<<<<< HEAD
 
-coooool
+hello world
+=======
+I love git)
