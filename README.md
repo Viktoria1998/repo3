@@ -8,3 +8,13 @@ I love git)
 >>>>>>> dev2
 
 ololollo
+
+
+
+
+
+
+
+
+
+ytytytytytyt
