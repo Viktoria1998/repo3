@@ -6,3 +6,5 @@ hello world
 =======
 I love git)
 >>>>>>> dev2
+
+ololollo
